@@ -29,18 +29,9 @@ Os indicadores elaborados pelo grupo abordam aspectos como o acesso a computador
 
 Cada indicador é descrito com sua respectiva fórmula de cálculo e justificativa de escolha.
 
-### 1. Taxa de Crescimento no Número de Computadores nas Escolas
 
-```math
-\text{Taxa de crescimento}_j = \frac{X_{j,\text{atual}} - X_{j,\text{anterior}}}{X_{j,\text{anterior}}}
-```
 
-- `Xj,atual`: número total de computadores no município *j* em 2024  
-- `Xj,anterior`: número total de computadores no município *j* em 2023
-
----
-
-### 2. Proporção de Escolas Públicas e Privadas
+### 1. Proporção de Escolas Públicas e Privadas
 
 ```math
 E_{j,\text{pública}} = E_{j,\text{federal}} + E_{j,\text{estadual}} + E_{j,\text{municipal}}
@@ -56,7 +47,7 @@ E_{j,\text{total}} = E_{j,\text{pública}} + E_{j,\text{privada}}
 
 ---
 
-### 3. Percentual de Escolas Públicas Municipais com Acesso à Internet
+### 2. Percentual de Escolas Públicas Municipais com Acesso à Internet
 
 ```math
 \text{Percentual com internet}_{j,\text{municipal}} = \left( \frac{\sum_{i=1}^{n_j} X_{ij}}{n_j} \right) \times 100
@@ -67,7 +58,7 @@ E_{j,\text{total}} = E_{j,\text{pública}} + E_{j,\text{privada}}
 
 ---
 
-### 4. Proporção de Escolas com Acessibilidade Física
+### 3. Proporção de Escolas com Acessibilidade Física
 
 ```math
 \text{Acessibilidade}_j = \left( \frac{\sum_{i=1}^{n_j} x_{ij}}{n_j} \right) \times 100
@@ -78,7 +69,7 @@ E_{j,\text{total}} = E_{j,\text{pública}} + E_{j,\text{privada}}
 
 ---
 
-### 5. Tipo de Esgotamento Sanitário nas Escolas
+### 4. Tipo de Esgotamento Sanitário nas Escolas
 
 ```math
 \text{Indicador de esgoto}_{j,k} = \left( \frac{\sum_{i=1}^{n_j} E^{(k)}_{ij}}{n_j} \right) \times 100
