@@ -1,4 +1,4 @@
-# Relatório de Atividade - Indicadores Educacionais
+# Indicadores Educacionais
 
 **Universidade Federal Fluminense**  
 **Instituto de Matemática e Estatística**  
