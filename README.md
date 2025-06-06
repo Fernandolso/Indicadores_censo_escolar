@@ -3,7 +3,7 @@
 **Universidade Federal Fluminense**  
 **Instituto de Matemática e Estatística**  
 **Departamento de Estatística**  
-Atividade 6 da disciplina Prática Estatística 1  
+Prática Estatística 1  
 1º semestre de 2025
 
 ## 👥 Autores
